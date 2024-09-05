@@ -1,0 +1,11 @@
+com\servlets\LoginServlet.class
+com\entities\Category.class
+com\dao\UserDao.class
+com\entities\Product.class
+com\helper\HibernateUtility.class
+com\servlets\LogoutServlet.class
+com\entities\User.class
+com\servlets\RegisterServlet.class
+com\dao\CategoryDao.class
+com\dao\ProductDao.class
+com\servlets\ProductOperationServlet.class
